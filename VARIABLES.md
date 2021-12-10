@@ -63,14 +63,20 @@ $ var mensaje = 'Hola';
 ## Nombramiento de variables
 
 [1.]**El nombre únicamente puede incluir letras, dígitos, o los simbolos [$] y [_]**
+
 [2.]**El primer carácter no puede ser un dígito**
+
 [3.]**Cuando el nombre contenga varias palabras usar recomendablemente [camelCase:https://es.wikipedia.org/wiki/Camel_case]**
+
 [4.]**La capitalización es importante JavaScript distinge minombre y miNOMBRE son distintos**
+
 [5.]**Letras que no son del alfabeto inglés están permitidas, pero no se recomiendan**
+
 ```
 $ let имя = '...';
 $ let 我 = '...';
 ```
+
 [6.]**Las palabras reservadas no pueden ser ultilizadas para nombrar variables[REF:https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Lexical_grammar#Keywords]**
 
 ***OJO***
@@ -84,10 +90,10 @@ $ alert($ + _); // 3
 ```
 
 ## Consideraciones
-[*]**Usar terminos legibles para el ojo humano**
-[*]**Evitar abreviaciones o nombres cortos**
-[*]**Crear nombres que describan lo que son y que sean concisos.**
-[*]**Ejemplo no adecuado: [data] y [value], estos nombres no dicen nada de a que se refiere.**
+[1]**Usar terminos legibles para el ojo humano**
+[2]**Evitar abreviaciones o nombres cortos**
+[3]**Crear nombres que describan lo que son y que sean concisos.**
+[4]**Ejemplo no adecuado: [data] y [value], estos nombres no dicen nada de a que se refiere.**
 
 ***¿Reusar o crear?
 > Una última nota. Existen programadores haraganes que, en vez de declarar una variable nueva, tienden a reusar las existentes.
