@@ -1,4 +1,5 @@
 # El modo moderno, "use strict"
+[Refrencia-textual:https://es.javascript.info/strict-mode]
 
 > Durante mucho tiempo, JavaScript evolucionó sin problemas de compatibilidad. Se añadían nuevas características al lenguaje sin que la funcionalidad existente cambiase.
 
@@ -6,7 +7,6 @@
 
 > Esto fue así hasta 2009, cuando ECMAScript 5 (ES5) apareció. Esta versión añadió nuevas características al lenguaje y modificó algunas de las ya existentes. Para mantener el código antiguo funcionando, la mayor parte de las modificaciones están desactivadas por defecto. Tienes que activarlas explícitamente usando una directiva especial: "use strict".
 
-[Refrencia-textual:https://es.javascript.info/strict-mode]
 
 **Para utilizar el modo estricto en el navegador presiona [Shift+Enter]**
 

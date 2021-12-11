@@ -1,5 +1,5 @@
 # CONSTANTES
-
+[Refrencia:https://es.javascript.info/variables#constantes]
 > Para declarar una variable constante (inmutable) use const en vez de let.
 
 ```

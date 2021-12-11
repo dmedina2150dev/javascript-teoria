@@ -90,9 +90,13 @@ $ alert($ + _); // 3
 ```
 
 ## Consideraciones
+
 [1]**Usar terminos legibles para el ojo humano**
+
 [2]**Evitar abreviaciones o nombres cortos**
+
 [3]**Crear nombres que describan lo que son y que sean concisos.**
+
 [4]**Ejemplo no adecuado: [data] y [value], estos nombres no dicen nada de a que se refiere.**
 
 ***¿Reusar o crear?
